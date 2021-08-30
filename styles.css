@@ -328,4 +328,13 @@ section {
     transition: 0.3 ease;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .home .content h1 {
+    font-size: 2em;
+  }
+  .home .content h1 span {
+    font-size: 1em;
+  }
+}
 /*# sourceMappingURL=styles.css.map */
